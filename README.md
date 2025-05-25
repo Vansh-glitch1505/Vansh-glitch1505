@@ -36,5 +36,3 @@
 
 ---
 
-### 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vansh-glitch1505&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)

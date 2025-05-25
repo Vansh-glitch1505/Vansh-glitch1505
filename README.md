@@ -1,16 +1,40 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Vansh Yadav</h2>
 
-<!--
-**Vansh-glitch1505/Vansh-glitch1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A passionate PERN Stack Developer from India.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **ReactJs, NodeJs, C++**
+- 👯 I’m looking to work on some more open source projects in 2025
+- 💬 Ask me about **React, Node.js, JavaScript**
+- ⚡ Fun fact: *React and I are in a love-hate relationship.*
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vansh-rotkar-313530338/)
+
+
+---
+
+### 🧰 Languages and Tools:
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+
+---
+
+### 📊 GitHub Stats:
+![Vansh-glitch1505's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vansh-glitch1505&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-glitch1505&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vansh-glitch1505&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)

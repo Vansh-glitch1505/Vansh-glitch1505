@@ -30,7 +30,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Vansh-glitch1505's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vansh-glitch1505&show_icons=true&theme=tokyonight)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-glitch1505&layout=compact&theme=tokyonight)
 

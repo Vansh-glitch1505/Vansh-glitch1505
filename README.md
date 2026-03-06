@@ -7,7 +7,7 @@
 ---
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, C++**
-- 👯 I’m looking to work on some more open source projects in 2025
+- 👯 I’m looking to work on some more open source projects in 2026
 - 💬 Ask me about **React, Node.js, JavaScript**
 - ⚡ Fun fact: *React and I are in a love-hate relationship.*
 
